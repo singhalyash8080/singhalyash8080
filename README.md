@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring Web Dev.
-- 🎓 &nbsp; Studying Information Technology at Vellore Institute of Technology,Vellore.
+- 🎓 &nbsp; Studying Information Technology at Vellore Institute of Technology, Vellore.
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -18,10 +18,13 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- :cloud: &nbsp;
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure-devops)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws-devops)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
