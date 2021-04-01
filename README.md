@@ -18,6 +18,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 - :cloud: &nbsp;
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure-devops)
