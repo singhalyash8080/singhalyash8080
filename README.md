@@ -32,7 +32,7 @@
 ## My Stats
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=singhalyash8080&show_icons=true&theme=radical" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhalyash8080&layout=compact)](https://github.com/singhalyash8080/github-readme-stats)" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhalyash8080&layout=compact&theme=radical" />
 </p>
 
 
