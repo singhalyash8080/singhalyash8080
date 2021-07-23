@@ -3,7 +3,7 @@
 ## I'm Yash.
 
 ### 💻 &nbsp;About Me 
-- 🎓 &nbsp; Studying Information Technology at Vellore Institute of Technology, Vellore.
+- 🎓 &nbsp; 3rd year student pursuing B.tech in Information Technology from Vellore Institute of Technology, Vellore.
 
 
 ### 🛠 &nbsp;Tech Stack
