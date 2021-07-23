@@ -3,8 +3,6 @@
 ## I'm Yash.
 
 ### 💻 &nbsp;About Me 
-
-- 🤔 &nbsp; Exploring Web Dev and doing Competitive Programming.
 - 🎓 &nbsp; Studying Information Technology at Vellore Institute of Technology, Vellore.
 
 
