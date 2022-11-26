@@ -9,7 +9,7 @@
 
 - 🔨 Full-stack js developer
 
-- 🎓 &nbsp; Final year student at VIT, Vellore
+- 🎓 Final year student at VIT, Vellore
  
 
 ## My Stats
